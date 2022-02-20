@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xxtucamarxx
+- 👋 Hi, I’m Tucamar
 - 👀 I’m interested in biotechnology, programming, urban planning, guitar, star gazing, sports
 - 🌱 I’m currently learning python and linux
 - 💞️ I’m looking to collaborate on data sciency stuff or anything where i can learn something usefull
